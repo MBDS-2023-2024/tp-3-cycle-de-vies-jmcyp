@@ -8,4 +8,33 @@
     tools:context=".MainActivity">
 
 
+    <Button
+        android:id="@+id/btn_home_compute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_home_compute" />
+
+    <Button
+        android:id="@+id/btn_sos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SOS" />
+
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search" />
+
+    <Button
+        android:id="@+id/btn_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Share" />
+
+    <Button
+        android:id="@+id/btn_itineraire"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Itineraire" />
 </LinearLayout>
